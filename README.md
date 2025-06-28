@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A full stack Software Engineer </h3>
+<h3 align="center">A Full Stack Software Engineer </h3>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
