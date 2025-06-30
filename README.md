@@ -31,7 +31,7 @@
       <h3 align="center">My Office</h3>
         <br />
       <a target="_blank" href="https://myoffice316.netlify.app/">
-            <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1751286822/2025-06-30-152314-my-office-screenclip_gu1atx.png" width="100%"  alt="Rigley 2"/>
+            <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1751296160/2025-06-30-180817-my-office-screenclip_p7gwfc.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
