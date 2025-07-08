@@ -53,7 +53,7 @@
     <td width="50%" valign="top">
       <h3 align="center">MahmoudSalama.com</h3>
       <br />
-        <a target="_blank" href="https://mahmoud-salama.netlify.app/">
+        <a target="_blank" href="https://profile-website-pink.vercel.app/">
           <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179350/2025-06-17-161257-mahmoud-salama-screenclip_tgtpl7.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
@@ -61,8 +61,8 @@
   <a href="https://github.com/Mooddex/second-traaayy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://mahmoud-salama.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
+  <a href="https://profile-website-pink.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=vercel&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
