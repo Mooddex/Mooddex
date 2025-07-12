@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A Full Stack Software Engineer </h3>
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mooddex&layout=compact&theme=dark)
+
+</div>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
