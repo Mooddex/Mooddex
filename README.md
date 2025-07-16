@@ -28,12 +28,11 @@
     <img src="https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong>Nextjs </strong> - A simple and clean Front-end website  for lawyers to manage their cases and clients — all in one place. This is your online office to stay organized and focused on your legal practice.
-.</p>
+        <p><strong>Nextjs </strong> - is a full-stack marketplace platform where kitchen makers upload their kitchen designs. The platform allows customers to browse these designs and connect with makers — turning inspiration into real-life kitchen builds.</p>
     </td>
-  </tr>
   
-  <tr>
+  
+  
   <!-- BeautelloSalon -->
     <td width="50%" valign="top">
       <h3 align="center">BeautelloSalon.com  </h3>
