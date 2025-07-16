@@ -1,85 +1,75 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooddex&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Projects
 
-### 🌟 Matbakhy
-[![Matbakhy Screenshot](https://res.cloudinary.com/deq0w5tnr/image/upload/v1752613435/2025-07-16-000244-create-next-app-screenclip_epkkci.jpg)](https://github.com/Mooddex/matbakhy)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌟 Matbakhy</h3>
+      <a href="https://github.com/Mooddex/matbakhy">
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1752613435/2025-07-16-000244-create-next-app-screenclip_epkkci.jpg" width="100%" alt="Matbakhy Screenshot"/>
+      </a><br/>
+      <a href="https://github.com/Mooddex/matbakhy">🔗 Repo</a>
+      <p>A full-stack <strong>Next.js</strong> marketplace where kitchen makers upload and showcase their designs. It connects users with makers to turn ideas into real kitchens.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💇‍♀️ BeautelloSalon.com</h3>
+      <a href="https://beautello.netlify.app/">
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179247/2025-06-17-192811-beautello-redefine-your-style-screenclip_kz5wjn.png" width="100%" alt="Beautello Screenshot"/>
+      </a><br/>
+      <a href="https://github.com/Mooddex/Beautello-Salon">🔗 Repo</a> |
+      <a href="https://beautello.netlify.app/">🌐 Website</a>
+      <p>A modern salon landing page built with <strong>HTML, CSS, and JavaScript</strong>, showcasing services and booking features.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚖️ My Office</h3>
+      <a href="https://myoffice316.netlify.app/">
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1751296160/2025-06-30-180817-my-office-screenclip_p7gwfc.png" width="100%" alt="My Office Screenshot"/>
+      </a><br/>
+      <a href="https://github.com/Mooddex/My-Office">🔗 Repo</a> |
+      <a href="https://myoffice316.netlify.app/">🌐 Website</a>
+      <p>A frontend web app for lawyers to manage clients and cases. Built with <strong>React, TailwindCSS, and Vite</strong>.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧑‍💼 MahmoudSalama.com</h3>
+      <a href="https://profile-website-pink.vercel.app/">
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179350/2025-06-17-161257-mahmoud-salama-screenclip_tgtpl7.jpg" width="100%" alt="Portfolio Screenshot"/>
+      </a><br/>
+      <a href="https://github.com/Mooddex/second-traaayy">🔗 Repo</a> |
+      <a href="https://profile-website-pink.vercel.app/">🌐 Website</a>
+      <p>My personal portfolio site built with <strong>HTML, CSS, and JavaScript</strong> to showcase projects and contact info.</p>
+    </td>
+  </tr>
+</table>
 
-🔗 [Repo](https://github.com/Mooddex/matbakhy)
-
-A full-stack **Next.js** marketplace where kitchen makers upload and showcase their designs. It connects users with makers to turn ideas into real kitchens.
 
 ---
 
-### 💇‍♀️ BeautelloSalon.com
-[![Beautello Screenshot](https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179247/2025-06-17-192811-beautello-redefine-your-style-screenclip_kz5wjn.png)](https://beautello.netlify.app/)
-
-🔗 [Repo](https://github.com/Mooddex/Beautello-Salon) | [Website](https://beautello.netlify.app/)
-
-A modern salon landing page built with **HTML, CSS, and JavaScript**, showcasing services and booking features.
-
----
-
-### ⚖️ My Office
-[![My Office Screenshot](https://res.cloudinary.com/deq0w5tnr/image/upload/v1751296160/2025-06-30-180817-my-office-screenclip_p7gwfc.png)](https://myoffice316.netlify.app/)
-
-🔗 [Repo](https://github.com/Mooddex/My-Office) | [Website](https://myoffice316.netlify.app/)
-
-A frontend web app for lawyers to manage clients and cases. Built with **React, TailwindCSS, and Vite**.
-
----
-
-### 🧑‍💼 MahmoudSalama.com
-[![Portfolio Screenshot](https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179350/2025-06-17-161257-mahmoud-salama-screenclip_tgtpl7.jpg)](https://profile-website-pink.vercel.app/)
-
-🔗 [Repo](https://github.com/Mooddex/second-traaayy) | [Website](https://profile-website-pink.vercel.app/)
-
-My personal portfolio site built with **HTML, CSS, and JavaScript** to showcase projects and contact info.
-
----
-
-## 🛠️ Technologies
+<h3 align="center">🛠️ Technologies</h3>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React.js" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" title="Heroku" />
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 📫 Connect with me:
+<h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  
-
-  <a href="https://twitter.com/salama316" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mahmoudsalama1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
+  <a href="https://codepen.io/@mooddex" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" width="40" height="40"/></a>
+  <a href="https://twitter.com/salama316" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/mahmoudsalama1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
