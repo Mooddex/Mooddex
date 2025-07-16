@@ -74,6 +74,10 @@ My personal portfolio site built with **HTML, CSS, and JavaScript** to showcase 
 ## 📫 Connect with me:
 
 <p align="center">
+  <a href="mailto:msalama027@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" />
+</a>
+
   <a href="https://twitter.com/salama316" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
   </a>
