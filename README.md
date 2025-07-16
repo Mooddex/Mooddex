@@ -48,19 +48,25 @@ My personal portfolio site built with **HTML, CSS, and JavaScript** to showcase 
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" title="Heroku" />
+  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React.js" />
   <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" title="Next.js" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" title="PostgreSQL" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" title="Heroku" />
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" title="Bash" />
 </p>
 
 ---
