@@ -11,12 +11,35 @@
 <table bordercolor="#66b2b2">
   
   <tr>
+<!--matbakhy -->
+    <td width="50%" valign="top">
+      <h3 align="center">Matbakhy</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1752613435/2025-07-16-000244-create-next-app-screenclip_epkkci.jpg" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Mooddex/matbakhy" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+<!--   <a href="https://myoffice316.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><strong>Nextjs </strong> - A simple and clean Front-end website  for lawyers to manage their cases and clients — all in one place. This is your online office to stay organized and focused on your legal practice.
+.</p>
+    </td>
+  </tr>
+  
+  <tr>
   <!-- BeautelloSalon -->
     <td width="50%" valign="top">
       <h3 align="center">BeautelloSalon.com  </h3>
         <br />
         <a target="_blank" href="https://beautello.netlify.app/">
-            <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179247/2025-06-17-192811-beautello-redefine-your-style-screenclip_kz5wjn.png" width="100%" alt="Travel App"/>
+            <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179247/2025-06-17-192811-beautello-redefine-your-style-screenclip_kz5wjn.png" width="100%" alt="Salon App"/>
         </a>
         <br />
         <p align="center">
