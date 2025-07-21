@@ -62,6 +62,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+  <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="zod" width="40" height="40"/> </a>
 </p>
 
 ---
