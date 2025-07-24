@@ -7,10 +7,11 @@
   <tr>
     <td align="center" width="50%">
       <h3>🌟 Matbakhy</h3>
-      <a href="https://github.com/Mooddex/matbakhy">
-        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1752613435/2025-07-16-000244-create-next-app-screenclip_epkkci.jpg" width="100%" alt="Matbakhy Screenshot"/>
+      <a href="https://matbakhy-beta.vercel.app/">
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1753351753/2025-07-16-000244-create-next-app-screenclip_epkkci.jpg" width="100%" alt="Matbakhy Screenshot"/>
       </a><br/>
       <a href="https://github.com/Mooddex/matbakhy">🔗 Repo</a>
+      <a href="https://matbakhy-beta.vercel.app/">🌐 Website</a>
       <p>A full-stack <strong>Next.js</strong> marketplace where kitchen makers upload and showcase their designs. It connects users with makers to turn ideas into real kitchens.</p>
     </td>
     <td align="center" width="50%">
