@@ -68,6 +68,15 @@
 
 ---
 
+<h3 align="center">📊 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooddex&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+</p>
+
+
+---
+
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
