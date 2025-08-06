@@ -64,6 +64,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
   <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="zod" width="40" height="40"/> </a>
+     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
 ---
