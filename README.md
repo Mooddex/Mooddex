@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=500&lines=🚀+Frontend+Developer;⚛️+React+%26+Next.js" alt="Typing SVG" />
   </a>
 </p>
-## 🚀 Projects
+<h1 align="center"> 🚀 Projects </h1>
 
 <table>
   <tr>
@@ -18,13 +18,13 @@
       <p>A full-stack <strong>Next.js</strong> marketplace where kitchen makers upload and showcase their designs. It connects users with makers to turn ideas into real kitchens.</p>
     </td>
     <td align="center" width="50%">
-      <h3>💇‍♀️ BeautelloSalon.com</h3>
+      <h3>📝 Fullstack Blogging Platform</h3>
       <a href="https://beautello.netlify.app/">
-        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179247/2025-06-17-192811-beautello-redefine-your-style-screenclip_kz5wjn.png" width="100%" alt="Beautello Screenshot"/>
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1754612076/2025-08-08-031321-create-next-app-screenclip_q8ucrz.jpg" width="100%" alt=" Screenshot"/>
       </a><br/>
-      <a href="https://github.com/Mooddex/Beautello-Salon">🔗 Repo</a> |
-      <a href="https://beautello.netlify.app/">🌐 Website</a>
-      <p>A modern salon landing page built with <strong>HTML, CSS, and JavaScript</strong>, showcasing services and booking features.</p>
+      <a href="https://github.com/Mooddex/Blogbook">🔗 Repo</a>
+      <p>A modern, fullstack blogging platform built with React and Next.js, powered by MongoDB, styled with Tailwind CSS, and using React Query for data fetching and caching.
+</p>
     </td>
   </tr>
   <tr>
