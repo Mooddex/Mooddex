@@ -38,13 +38,13 @@
       <p>A frontend web app for lawyers to manage clients and cases. Built with <strong>React, TailwindCSS, and Vite</strong>.</p>
     </td>
     <td align="center" width="50%">
-      <h3>🧑‍💼 MahmoudSalama.com</h3>
-      <a href="https://profile-website-pink.vercel.app/">
-        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1750179350/2025-06-17-161257-mahmoud-salama-screenclip_tgtpl7.jpg" width="100%" alt="Portfolio Screenshot"/>
+      <h3>Brempatch Dashboard</h3>
+      <a href="https://brempatch-dashboard.vercel.app ">
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1755384048/screencapture-localhost-3000-2025-08-17-00_33_01_fjr9hn.png" width="100%" alt="Screenshot"/>
       </a><br/>
-      <a href="https://github.com/Mooddex/second-traaayy">🔗 Repo</a> |
-      <a href="https://profile-website-pink.vercel.app/">🌐 Website</a>
-      <p>My personal portfolio site built with <strong>HTML, CSS, and JavaScript</strong> to showcase projects and contact info.</p>
+      <a href="https://github.com/Mooddex/Brempatch-Dashboard">🔗 Repo</a> |
+      <a href="https://brempatch-dashboard.vercel.app">🌐 Website</a>
+      <p>A modern, responsive dashboard built with <strong> Next.js, Shadcn UI, and TailwindCSS.</strong> It provides clean data visualization, tables, and interactive UI components to help users manage and monitor information efficiently. </p>
     </td>
   </tr>
 </table>
