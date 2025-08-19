@@ -44,7 +44,7 @@
       </a><br/>
       <a href="https://github.com/Mooddex/Brempatch-Dashboard">🔗 Repo</a> |
       <a href="https://brempatch-dashboard.vercel.app">🌐 Website</a>
-      <p>A modern, responsive dashboard built with <strong> Next.js, Shadcn UI, and TailwindCSS.</strong> It provides clean data visualization, tables, and interactive UI components to help users manage and monitor information efficiently. </p>
+      <p>A modern, responsive dashboard built with <strong> Next.js, TypeScript, Shadcn UI and TailwindCSS.</strong> It provides clean data visualization, tables, and interactive UI components to help users manage and monitor information efficiently. </p>
     </td>
   </tr>
 </table>
