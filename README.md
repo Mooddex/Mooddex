@@ -40,7 +40,7 @@
     <td align="center" width="50%">
       <h3>Brempatch Dashboard</h3>
       <a href="https://brempatch-dashboard.vercel.app ">
-        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1755384048/screencapture-localhost-3000-2025-08-17-00_33_01_fjr9hn.png" width="100%" alt="Screenshot"/>
+        <img src="https://res.cloudinary.com/deq0w5tnr/image/upload/v1755636647/IMG_9085_dc9xvc.png" width="100%" alt="Screenshot"/>
       </a><br/>
       <a href="https://github.com/Mooddex/Brempatch-Dashboard">🔗 Repo</a> |
       <a href="https://brempatch-dashboard.vercel.app">🌐 Website</a>
