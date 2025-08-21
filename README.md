@@ -111,7 +111,6 @@
       <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
     </p>
-
     <p>A modern, responsive dashboard built with <strong>Next.js, TypeScript, Shadcn UI and TailwindCSS</strong>. It provides clean data visualization, tables, and interactive UI components.</p>
   </div>
 
