@@ -35,12 +35,12 @@
 
   <div align="center">
     <h3>📝 Fullstack Blogging Platform</h3>
-    🔗 <a href="https://beautello.netlify.app/">Live Demo</a>  
+    🔗 <a href="https://github.com/Mooddex/Blogbook">Live Demo</a>  
     <p>
       <a href="https://github.com/Mooddex/Blogbook">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://beautello.netlify.app/">
+      <a href="https://github.com/Mooddex/Blogbook">
         <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
       </a>
     </p>
