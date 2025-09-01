@@ -10,7 +10,26 @@
 <h1 align="center">🚀 Projects</h1>
 
 <section>
-
+<div align="center">
+  <h3>🎟️ Ehgzly</h3>
+  🔗 <a href="https://ehgzly-mocha.vercel.app/">Live Demo</a>  
+  <p>
+    <a href="https://github.com/Mooddex/ehgzly">
+      <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://ehgzly-mocha.vercel.app/">
+      <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  </p>
+  <p>An AI-driven events and entertainment platform built with <strong>Next.js</strong>. It helps users discover, book, and enjoy events with intelligent recommendations.</p>
+</div>
+  ---
   <div align="center">
     <h3>🌟 Matbakhy</h3>
     🔗 <a href="https://matbakhy-beta.vercel.app/">Live Demo</a>  
@@ -103,6 +122,11 @@
 <h3 align="center">🛠️ Technologies</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
