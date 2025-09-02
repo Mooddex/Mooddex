@@ -29,7 +29,10 @@
   </p>
   <p>An AI-driven events and entertainment platform built with <strong>Next.js</strong>. It helps users discover, book, and enjoy events with intelligent recommendations.</p>
 </div>
+  
   ---
+
+  
   <div align="center">
     <h3>🌟 Matbakhy</h3>
     🔗 <a href="https://matbakhy-beta.vercel.app/">Live Demo</a>  
