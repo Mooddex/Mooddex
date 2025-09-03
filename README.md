@@ -26,6 +26,8 @@
     <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
+
   </p>
   <p>An AI-driven events and entertainment platform built with <strong>Next.js</strong>. It helps users discover, book, and enjoy events with intelligent recommendations.</p>
 </div>
