@@ -159,8 +159,11 @@
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="https://your-cv-link.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="cv" width="40" height="40"/>
+  <a href="mailto:msalama027@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=110236&format=png&color=000000" alt="gmail" width="40" height="40"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1jkWBU9oeQMQAytLqXXJSeA3F5E_ILbWN/view?usp=drive_link" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="cv" width="60" height="60"/>
   </a>
     &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mahmoudsalama1" target="_blank">
