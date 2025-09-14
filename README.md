@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=500&lines=🚀+Frontend+Developer;⚛️+React+%26+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=500&lines=🚀+Frontend+Developer;⚛️+React,TypeScript+%26+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
