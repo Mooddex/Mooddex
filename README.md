@@ -14,7 +14,6 @@
   <tr>
     <td align="center" width="50%">
       <h3>🎟️ Ehgzly</h3>
-      🔗 <a href="https://ehgzly-mocha.vercel.app/">Live Demo</a><br/>
       <a href="https://github.com/Mooddex/ehgzly">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -32,7 +31,6 @@
 
    <td align="center" width="50%">
       <h3>🌟 Matbakhy</h3>
-      🔗 <a href="https://matbakhy-beta.vercel.app/">Live Demo</a><br/>
       <a href="https://github.com/Mooddex/matbakhy">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -51,7 +49,6 @@
   <tr>
     <td align="center" width="50%">
       <h3>📝 Fullstack Blogging Platform</h3>
-      🔗 <a href="https://github.com/Mooddex/Blogbook">Live Demo</a><br/>
       <a href="https://github.com/Mooddex/Blogbook">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -68,7 +65,6 @@
 
   <td align="center" width="50%">
       <h3>⚖️ My Office</h3>
-      🔗 <a href="https://myoffice316.netlify.app/">Live Demo</a><br/>
       <a href="https://github.com/Mooddex/My-Office">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -84,9 +80,8 @@
   </tr>
 
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <h3>📊 Brempatch Dashboard</h3>
-      🔗 <a href="https://brempatch-dashboard.vercel.app">Live Demo</a><br/>
       <a href="https://github.com/Mooddex/Brempatch-Dashboard">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -98,6 +93,20 @@
       <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+      <p>A modern, responsive dashboard with clean data visualization and UI components.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Dallel</h3>
+      <a href="https://github.com/Mooddex/dallel">
+        <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://dallel.vercel.app/">
+        <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
       <p>A modern, responsive dashboard with clean data visualization and UI components.</p>
     </td>
   </tr>
