@@ -163,3 +163,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD4AC,100:00C7B7&height=120&section=footer"/>
