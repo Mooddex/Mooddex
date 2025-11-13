@@ -147,20 +147,20 @@
 </p>
 
 ---
-
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:msalama027@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=110236&format=png&color=000000" alt="gmail" width="40" height="40"/>
+  <a href="mailto:msalama027@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/?size=100&id=110236&format=png&color=EA4335" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1jkWBU9oeQMQAytLqXXJSeA3F5E_ILbWN/view?usp=drive_link" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="cv" width="60" height="60"/>
+  <a href="https://drive.google.com/file/d/1jkWBU9oeQMQAytLqXXJSeA3F5E_ILbWN/view?usp=drive_link" target="_blank" title="View my CV">
+    <img src="https://img.icons8.com/ios-filled/50/4A90E2/resume.png" alt="CV" width="48" height="48"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mahmoudsalama1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
+  <a href="https://linkedin.com/in/mahmoudsalama1" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD4AC,100:00C7B7&height=120&section=footer"/>
