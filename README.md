@@ -13,20 +13,19 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🎟️ Ehgzly</h3>
-      <a href="https://github.com/Mooddex/ehgzly">
+      <h3>Artisty</h3>
+      <a href="https://github.com/Mooddex/artisty">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://ehgzly-mocha.vercel.app/">
+      <a href="https://artisty-mu.vercel.app/">
         <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nuxt.js-black?style=flat-square&logo=nuxt.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
-      <p>An AI-driven events and entertainment platform built with <strong>Next.js</strong>.</p>
+       <img src="https://img.shields.io/badge/Pinia-38b8?style=flat-square&logo=pinia&logoColor=white"/>
+      <p>View or buy Masterpieces of this century and the previous ones
+.</p>
     </td>
 
    <td align="center" width="50%">
@@ -64,18 +63,20 @@
     </td>
 
   <td align="center" width="50%">
-      <h3>⚖️ My Office</h3>
-      <a href="https://github.com/Mooddex/My-Office">
+     <h3>🎟️ Ehgzly</h3>
+      <a href="https://github.com/Mooddex/ehgzly">
         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-      <a href="https://myoffice316.netlify.app/">
-        <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      <a href="https://ehgzly-mocha.vercel.app/">
+        <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <p>A frontend app for lawyers to manage clients and cases.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
+      <p>An AI-driven events and entertainment platform built with <strong>Next.js</strong>.</p>
     </td>
   </tr>
 
@@ -136,14 +137,6 @@
   <img src="https://img.shields.io/badge/Sentry-362d59?style=for-the-badge&logo=sentry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zod-333?style=for-the-badge&logo=zod&logoColor=white"/>
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooddex&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
 </p>
 
 ---
