@@ -1,15 +1,8 @@
 # Hi, I'm Mahmoud 👋
 
-Frontend Developer based in Cairo, Egypt — building responsive, user-friendly web apps with React, Next.js, Vue, and TypeScript. Developed 20+ UIs from Figma designs and collaborated in remote Agile teams.
+Frontend Developer based in  Egypt — building responsive, user-friendly web apps with React, Next.js, Vue, Nuxt.js and TypeScript. From Figma designs to Big Reality collaborated with remote Agile teams.
 
 📬 [msalama027@gmail.com](mailto:msalama027@gmail.com) · [LinkedIn](https://linkedin.com/in/mahmoudsalama1) · [Portfolio](https://mahmoudsalama.vercel.app/) · [GitHub](https://github.com/Mooddex)
-
----
-
-## Experience
-
-**Frontend Intern — DRB** *(Oct 2025 – Dec 2025 · Remote)*  
-Contributed to user-friendly tech solutions for clients in the automotive industry.
 
 ---
 
@@ -19,14 +12,11 @@ Contributed to user-friendly tech solutions for clients in the automotive indust
 |---|---|---|
 | [Artisty](https://artisty-mu.vercel.app/) | Nuxt.js · TailwindCSS · REST API | Browse and buy masterpiece artworks |
 | [Matbakhy](https://matbakhy-beta.vercel.app/) | Next.js · TypeScript · MongoDB | Marketplace for kitchen designers |
-| [Ehgzly](https://ehgzly-mocha.vercel.app/) | Next.js · TypeScript · OpenAI | AI-driven events & entertainment platform |
-| [Brempatch Dashboard](https://brempatch-dashboard.vercel.app) | Next.js · ShadcnUI · TailwindCSS | Responsive dashboard with data visualization |
-| [Movie Rating App](https://movie-rating-app-liart.vercel.app/) | Nuxt 4 · TypeScript · Zod | Movie discovery and rating app |
-| [Blogbook](https://github.com/Mooddex/Blogbook) | Next.js · MongoDB · React Query | Full-stack blogging platform |
+| [BremPatch Dashboard](https://brempatch-dashboard.vercel.app) | Next.js · ShadcnUI · TailwindCSS | Responsive dashboard with data visualization |
 
 ---
 
-## Stack
+## Tech Stack
 
 **Languages** — JavaScript · TypeScript · HTML5 · CSS3
 
