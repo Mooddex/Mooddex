@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud 👋
 
-Frontend Developer based in  Egypt — building responsive, user-friendly web apps with React, Next.js, Vue, Nuxt.js and TypeScript. From Figma designs to Big Reality collaborated with remote Agile teams.
+Frontend Developer based in  Egypt — building responsive, user-friendly web apps with React, Next.js, Vue, Nuxt.js and TypeScript. .
 
 📬 [msalama027@gmail.com](mailto:msalama027@gmail.com) · [LinkedIn](https://linkedin.com/in/mahmoudsalama1) · [Portfolio](https://mahmoudsalama.vercel.app/) · [GitHub](https://github.com/Mooddex)
 
