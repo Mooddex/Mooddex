@@ -12,7 +12,7 @@ Frontend Developer based in  Egypt — building responsive, user-friendly web ap
 |---|---|---|
 | [Artisty](https://artisty-mu.vercel.app/) | Nuxt.js · TailwindCSS · REST API | Browse and buy masterpiece artworks |
 | [Matbakhy](https://matbakhy-beta.vercel.app/) | Next.js · TypeScript · MongoDB | Marketplace for kitchen designers |
-| [BremPatch Dashboard](https://brempatch-dashboard.vercel.app) | Next.js · ShadcnUI · TailwindCSS | Responsive dashboard with data visualization |
+| [BremPatch Dashboard](https://brempatch-dashboard.vercel.app) | Next.js · ShadcnUI · REST API · TailwindCSS | Responsive dashboard with data visualization |
 
 ---
 
